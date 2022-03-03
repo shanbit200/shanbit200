@@ -1,12 +1,12 @@
 
 ### Hi there 👋 I am Shantanu
 
-- 🔭 I’m currently working on Kotlin
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter with Bloc Frmework
-- 🤔 I’m looking for help with Kotlin and Flutter
-- 💬 Ask me about Android,Firebase,Kotlin
-- 📫 How to reach me: shanbit200@gmail.com
+- 🔭 I’m currently working on Kotlin.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Flutter with Bloc Framework
+- 🤔 I’m looking for help with Kotlin and Flutter.
+- 💬 Ask me about Android,Firebase,Kotlin.
+- 📫 How to reach me: shanbit200@gmail.com.
 
 ### Connect with me:
 <div>
